@@ -8,6 +8,6 @@ The Classroom VR Open Standards (CVROS) are a set of open-source guidelines for 
 
 - [ ] Develop a set of best practices for Standalone VR
 - [ ] Develop a set of best practices for Tethered VR
-- [ ] Develop a set of best practices Mobile-phone VR
+- [ ] Develop a set of best practices for Smartphone VR
 - [ ] Develop a set of classroom-VR general recommendations
 - [ ] Develop a front-end for classroomvr.org and fetch the standards data from this repo
