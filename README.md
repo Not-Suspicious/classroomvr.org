@@ -1,6 +1,6 @@
 # Classroom VR Open Standards (CVROS)
 
-The Classroom VR Open Standards (CVROS) are a set of open-source guidelines for how to best adapt virtual reality technology in classrooom settings.
+The Classroom VR Open Standards (CVROS) are a set of open-source guidelines for how to best adapt virtual reality technology in classroom settings.
 
 **Work-in-progress.**
 
