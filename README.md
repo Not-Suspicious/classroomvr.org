@@ -1,1 +1,3 @@
-# classroom-VR-standards
+# Classroom VR Open Standards
+
+Work-in-progress.
